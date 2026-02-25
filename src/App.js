@@ -70,7 +70,7 @@ const Portfolio = () => {
     },
     {
       titre: 'Application web de gestion de bibliotheque',
-      description: "Développement d\'une interface web moderne pour la gestion d'une bibliotheque moderne avec un backend REST API sécurisé.",
+      description: "Développement d'une interface web moderne pour la gestion d'une bibliotheque moderne avec un backend REST API sécurisé.",
       technologies: ['React', 'Node.js', 'MongoDB'],
       color: 'from-orange-500 to-red-600',
       image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=300&fit=crop'
@@ -150,7 +150,7 @@ const Portfolio = () => {
                 <div className="w-40 h-40 mx-auto mb-6 rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 p-1 shadow-2xl">
                   <img 
                     src="/images/ma-photo.jpg"
-                    alt="Photo de profil Issaka Ouedraogo" 
+                    alt="Issaka Ouedraogo" 
                     className="w-full h-full rounded-full object-cover"
                   />
                 </div>
